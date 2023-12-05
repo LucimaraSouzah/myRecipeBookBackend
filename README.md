@@ -34,6 +34,7 @@ $ git clone https://github.com/LucimaraSouzah/myRecipeBook
 $ cd myRecipeBook
 # Certifique que tenha o Visual Studio instalado em seu computador
 # Abra o arquivo principal meuLivroDeReceitas.sln no Visual Studio
+# Configure a conexão com o banco de dados no arquivo appsettings.json
 # Execute o projeto clicando na seta de reprodução (normalmente é uma seta verde na barra de ferramentas)
 ```
 <div>
@@ -63,7 +64,7 @@ $ cd myRecipeBook
 
 ## 📝 Agradecimentos
 
-Obrigada pela atenção, espero que tenha gostado. Este projeto foi realizado através do curso de .NET Core: um curso orientado para o mercado de trabalho do Welisson Arley na Udemy/></a>
+Obrigada pela atenção, espero que tenha gostado. Este projeto foi realizado através do curso de .NET Core: um curso orientado para o mercado de trabalho do Welisson Arley na Udemy
 
 Feito por Lucimara Souza 💜
 

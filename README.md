@@ -6,7 +6,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-endpoints">Endpoints</a> •
+ <a href="#-desenvolvimento-do-projeto">Desenvolvimento do Projeto</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-como-contribuir-para-o-projeto">Contribuir com o projeto</a> • 
@@ -18,10 +18,11 @@
 
 <img height="16" src="https://cdn-icons-png.flaticon.com/512/6074/6074501.png"> Desenvolvi o backend completo, implementando uma variedade de endpoints essenciais para interação do frontend. Isso inclui desde funcionalidades básicas como registro de usuário, login e alteração de senha, até a capacidade de criar, modificar e pesquisar receitas, garantindo uma experiência abrangente e intuitiva para o usuário final.
 
-## ⚙ Endpoints 
+## ⚙ Desenvolvimento do Projeto
 
 ![image](https://github.com/LucimaraSouzah/myRecipeBook/assets/95291739/ee9d8b7c-436a-4908-bf6f-9a51d6fe4075)
-
+![image](https://github.com/LucimaraSouzah/myRecipeBook/assets/95291739/865f9b17-35d4-40fd-8c8a-5014409fdd8e)
+![image](https://github.com/LucimaraSouzah/myRecipeBook/assets/95291739/d778f479-7116-450e-9d32-fd35b32f5c1d)
 
 ## 🚀 Como executar o projeto
 
